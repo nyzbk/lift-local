@@ -5,7 +5,7 @@ Extract audio from a video in your browser.
 The file never leaves this device. No upload. No account. No watermark.
 Not a YouTube downloader.
 
-Live: https://lift-local.vercel.app
+Live: https://lift-local-pi.vercel.app
 
 Drop an MP4 or MOV. Download MP3, M4A or WAV. Mediabunny runs in this tab.
 A bundled LAME encoder writes MP3 when the browser cannot. A self-hosted

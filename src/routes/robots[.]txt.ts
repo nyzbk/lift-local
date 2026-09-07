@@ -15,7 +15,7 @@ Allow: /
 User-agent: Yandex
 Allow: /
 
-Sitemap: https://lift-local.vercel.app/sitemap.xml
+Sitemap: https://lift-local-pi.vercel.app/sitemap.xml
 `;
 
 export const Route = createFileRoute("/robots.txt")({

@@ -17,7 +17,7 @@ function Page() {
 
       <p>Before you drop anything, confirm the file is yours to extract. A Zoom MP4 of a meeting you hosted is a normal case. A film rip is not, and the terms say so. Confirm size: under 150 MB on a desktop browser, under 60 MB on a phone. Confirm you can save to disk. On iPhone that means the Files app. Safari does not have Chrome’s download shelf. Use Chrome or Edge on a computer when the file is long. Safari on iOS can extract short clips. It will not transcode a two-hour 4K file in the foreground. That is RAM, not a free-tier wall.</p>
       <h2>Step 1 — open the real site</h2>
-      <p>Open https://lift-local.vercel.app on HTTPS. A preview host with a hash is not the site. The first load may fetch engine code from this origin. Do that on Wi-Fi on a phone.</p>
+      <p>Open https://lift-local-pi.vercel.app on HTTPS. A preview host with a hash is not the site. The first load may fetch engine code from this origin. Do that on Wi-Fi on a phone.</p>
       <h2>Step 2 — drop one video</h2>
       <p>Drop one video: MP4, MOV, WebM, MKV, M4V. One file in focus. After the drop, wait for the card: name, bytes, duration, audio track yes or no. Silent screen recording: stop.</p>
       <h2>Step 3 — read the card</h2>

@@ -1,4 +1,4 @@
-export const SITE_ORIGIN = "https://lift-local.vercel.app";
+export const SITE_ORIGIN = "https://lift-local-pi.vercel.app";
 export const SITE_NAME = "Lift";
 export const CONTACT_EMAIL = "ultaultimatum@gmail.com";
 export const ADSENSE_CLIENT = "ca-pub-7636435144500691";
