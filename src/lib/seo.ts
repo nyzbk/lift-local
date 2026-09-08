@@ -18,7 +18,7 @@ export const SITEMAP_PATHS = [
   "/terms",
 ] as const;
 
-export const SITEMAP_LASTMOD = "2026-09-07";
+export const SITEMAP_LASTMOD = "2026-09-08";
 
 export const PAGE_SEO: Record<
   (typeof SITEMAP_PATHS)[number],
